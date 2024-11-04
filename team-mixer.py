@@ -3,10 +3,9 @@ import os
 
 input("Welcome to the Team Mixer. Press Enter to continue.")
 
-team1 = []
-team2 = []
+team1 = team2 = players = []
 total_players = 10
-players = []
+
 
 while len(players) < total_players:
     player = input("Please enter the name of a player: ")
