@@ -68,8 +68,3 @@ Press Enter to exit.
 1. Enter player names in the input field.
 2. Click "Add Player" to add the player to the list.
 3. Once 10 players are added, click "Form Teams" to randomly divide the players into two teams and display them.
-
-## License
-
-This project is licensed under the MIT License.
-```
