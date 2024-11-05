@@ -21,10 +21,7 @@ Team Mixer is a Python application that allows users to input player names and r
 
 To use the command-line interface, run the `team-mixer.py` script:
 
-```sh
-python 
-
-team-mixer.py
+python team-mixer.py
 
 ```
 
@@ -35,9 +32,7 @@ Follow the prompts to enter player names and view the randomly generated teams.
 To use the graphical user interface, run the `team-mixer-app.py` script:
 
 ```sh
-python 
-
-team-mixer-app.py
+python team-mixer-app.py
 
 
 ```
