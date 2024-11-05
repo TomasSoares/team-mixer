@@ -26,7 +26,7 @@ python
 
 team-mixer.py
 
-
+```
 ```
 
 Follow the prompts to enter player names and view the randomly generated teams.
